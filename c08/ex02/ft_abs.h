@@ -1,0 +1,1 @@
+#define ABS(Value) (Value * ((Value >= 0) * 2 - 1))
