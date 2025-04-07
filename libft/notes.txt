@@ -1,0 +1,6 @@
+Fix split.c
+Take out print_memory
+Fix headers
+Norminette check header file
+
+Use check libft
